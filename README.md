@@ -4,17 +4,16 @@
 
 I'm a passionate software developer with a strong interest in building innovative and efficient solutions. My journey in programming started with a curiosity for how things work, and it has grown into a fulfilling career. I enjoy working on both front-end and back-end development, and I'm always eager to learn new technologies and improve my skills.
 
-- 🌱 I’m currently learning **[insert technology you're currently learning]**
-- 👯 I’m looking to collaborate on **[insert types of projects you're interested in]**
-- 💬 Ask me about **[insert topics you're knowledgeable about]**
-<!-- - 📫 How to reach me: **[insert contact information]** -->
-- ⚡ Fun fact: **[insert a fun fact about yourself]**
+- 🌱 I’m currently learning nothing.
+- 🤝 I’m looking to collaborate on FinTech projects.
+- 💬 Ask me about anything
+- ⚡ Fun fact: not found
 
 ### Skills
 
-- **Languages:** [insert list of programming languages you know]
-- **Frameworks and Libraries:** [insert list of frameworks and libraries you use]
-- **Tools and Platforms:** [insert list of tools and platforms you use]
+- **Languages:** Dart, Javascript(Typescript), Python
+- **Frameworks and Libraries:** Flutter, node.js, NestJs, Django(DRF)
+- **Tools and Platforms:** Android Studio, XCode, Git
 <!--
 ### Projects
 
