@@ -37,6 +37,6 @@ Here are some of the projects I've been working on:
 
 - [LinkedIn](https://www.linkedin.com/in/samandar-rajabboyev/)
 - [Twitter](https://twitter.com/Samandar404)
-// - [Personal Website](https://[insert-your-website-url])
+- [Personal Website](https://[insert-your-website-url])
 
 Thanks for visiting my profile! Have a great day! 😄
