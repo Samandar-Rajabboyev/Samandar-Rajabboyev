@@ -4,7 +4,7 @@
 
 I'm a passionate software developer with a strong interest in building innovative and efficient solutions. My journey in programming started with a curiosity for how things work, and it has grown into a fulfilling career. I enjoy working on both front-end and back-end development, and I'm always eager to learn new technologies and improve my skills.
 
-- 🌱 I’m currently learning nothing.
+- 🌱 I’m currently learning human behavior.
 - 🤝 I’m looking to collaborate on FinTech projects.
 - 💬 Ask me about anything
 - ⚡ Fun fact: not found
