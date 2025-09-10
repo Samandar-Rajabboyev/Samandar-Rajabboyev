@@ -6,14 +6,14 @@ I'm a passionate software developer with a strong interest in building innovativ
 
 - 🌱 I’m currently learning human behavior.
 - 🤝 I’m looking to collaborate on FinTech projects.
-- 💬 Ask me about anything
+- 💬 Ask me about interesting things
 - ⚡ Fun fact: not found
 
 ### Skills
 
 - **Languages:** Dart, Javascript(Typescript), Python
 - **Frameworks and Libraries:** Flutter, node.js, NestJs, Django(DRF)
-- **Tools and Platforms:** Android Studio, XCode, Git
+- **Tools and Platforms:** Android Studio, XCode, VSCode, Git
 <!--
 ### Projects
 
