@@ -28,9 +28,6 @@ Here are some of the projects I've been working on:
 3. **[Project Name]** - [Project Description]
    - [Link to the project repository]
 -->
-### GitHub Stats
-
-![Samandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samandar-Rajabboyev&show_icons=true&theme=radical)
 
 ### Connect with Me
 
