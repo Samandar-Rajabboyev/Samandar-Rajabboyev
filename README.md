@@ -11,9 +11,9 @@ I'm a passionate software developer with a strong interest in building innovativ
 
 ### Skills
 
-- **Languages:** Dart, Javascript(Typescript), Python, GoLang
-- **Frameworks and Libraries:** Flutter, node.js, NestJs, Django(DRF)
-- **Tools and Platforms:** Android Studio, XCode, VSCode, Git
+- **Languages:** Dart, Javascript(Typescript), Python, Go
+- **Frameworks and Libraries:** Flutter, node.js, NestJs, Django(DRF), GIN
+- **Tools and Platforms:** Android Studio, XCode, VSCode, Git, OpenCode, nvim
 <!--
 ### Projects
 
